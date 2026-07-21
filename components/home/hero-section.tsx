@@ -28,7 +28,7 @@ export default function HeroSection() {
         </Badge>
       </div>
 
-      <h1 className="font-bold py-6 text-center">
+      <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold py-6 text-center">
         Transform PDFs into{" "}
         <span className="relative inline-block">
           <span className="relative z-10 px-2">concise</span>
